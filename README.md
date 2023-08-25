@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Humayun</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 📫 How to reach me **humayunrashidkhan96@gmail.com**
 
 - ⚡ Fun fact **I am Funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@h_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@h_r" height="30" width="40" /></a>
+<a href="https://twitter.com/@humayun_r_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@humayun_r_k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-humayun-rashid-khan-125018235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-humayun-rashid-khan-125018235/" height="30" width="40" /></a>
 <a href="https://fb.com/tufayal.khan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tufayal.khan7" height="30" width="40" /></a>
 <a href="https://instagram.com/tufayal.khan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tufayal.khan7" height="30" width="40" /></a>
+<a href="https://medium.com/@humayunrashidkhan96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@humayunrashidkhan96" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humayun167&show_icons=true&locale=en&layout=compact" alt="humayun167" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humayun167&show_icons=true&locale=en" alt="humayun167" /></p>
+
