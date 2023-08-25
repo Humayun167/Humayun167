@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Humayun</h1>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 - 📫 How to reach me **humayunrashidkhan96@gmail.com**
 
 - ⚡ Fun fact **I am Funny 😅**
