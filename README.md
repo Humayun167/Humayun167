@@ -6,8 +6,7 @@
   width="400"
   src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 />
-- 📫 How to reach me **humayun.webdev@gmail.com** - ⚡ Fun fact **I am Funny
-😅**
+- 📫 How to reach me **humayun.webdev@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
