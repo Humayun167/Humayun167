@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Humayun</h1>
 
 <h3 >About Me: </h3>
-<p>I am 3rd Year Computer Science and Engineering Student at Daffodil International University. I am a frontend Developer with MERN Stack.</p>
+<p>I am 3rd Year Computer Science and Engineering Student at Daffodil International University.<br> I am a frontend Developer with MERN Stack.</p>
 
 Email: humayun.webdev@gmail.com
 
