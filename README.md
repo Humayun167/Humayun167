@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Humayun</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img
-  align="right"
-  alt="coding"
-  width="400"
-  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
-/>
-- 📫 How to reach me **humayun.webdev@gmail.com** 
+<h1 align="center">Hi , I'm Humayun</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 >About Me: </h3>
+<p>I am 3rd Year Computer Science and Engineering Student at Daffodil International University. I am a frontend Developer with MERN Stack.</p>
+
+Email: humayun.webdev@gmail.com
+
+<h3 align="left">Social Media</h3>
 <p align="left">
   <a href="https://twitter.com/@humayun_r_k" target="blank"
     ><img
@@ -54,7 +51,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
