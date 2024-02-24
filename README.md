@@ -4,7 +4,7 @@
 <p>I'm Muhammad Humayun Rashid Khan, a frontend developer passionate about crafting exceptional user experiences. With expertise in HTML, CSS, JavaScript, and React.js , I excel at turning design concepts into responsive and intuitive interfaces. I thrive in collaborative environments and prioritize delivering high-quality solutions that exceed client expectations. Beyond coding, I'm a lifelong learner who enjoys outdoor adventures and creative pursuits. Let's connect and create something extraordinary together!</p>
 
 Email: humayun.webdev@gmail.com
-https://humayun-rashid-khan.netlify.app/
+Portfolio: https://humayun-rashid-khan.netlify.app/
 
 <h3 align="left">Social Media</h3>
 <p align="left">
