@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Humayun</h1>
 
 <h3 >About Me: </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayun167&label=Profile%20views&color=0e75b6&style=flat" alt="humayun167" /> </p>
 <p>I'm Muhammad Humayun Rashid Khan, a frontend developer passionate about crafting exceptional user experiences. With expertise in HTML, CSS, JavaScript, and React.js , I excel at turning design concepts into responsive and intuitive interfaces. I thrive in collaborative environments and prioritize delivering high-quality solutions that exceed client expectations. Beyond coding, I'm a lifelong learner who enjoys outdoor adventures and creative pursuits. Let's connect and create something extraordinary together!</p>
 
 Email: humayun.webdev@gmail.com
@@ -93,10 +92,6 @@ Portfolio: https://humayun-rashid-khan.netlify.app/
     />
   </a>
 
-
-  
-
-  
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
@@ -192,6 +187,7 @@ Portfolio: https://humayun-rashid-khan.netlify.app/
     />
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayun167&label=Profile%20views&color=0e75b6&style=flat" alt="humayun167" /> </p>
 <p>
   <img
     align="left"
