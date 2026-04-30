@@ -38,6 +38,13 @@ I build clean and responsive web interfaces using HTML, CSS, JavaScript, and Rea
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=humayun167&show_icons=true&layout=compact)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=humayun167&show_icons=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humayun167&show_icons=true&layout=compact"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=humayun167&show_icons=true"/>
+    </td>
+  </tr>
+</table>
