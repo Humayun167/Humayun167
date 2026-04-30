@@ -14,7 +14,7 @@ Email:humayunrashidkhan96@gmail.com
       alt="@humayun_r_k"
       height="30"
       width="40"
-  /></a>
+  /></a><br>
   <a
     href="https://linkedin.com/in/md-humayun-rashid-khan-125018235/"
     target="blank"
@@ -24,7 +24,7 @@ Email:humayunrashidkhan96@gmail.com
       alt="md-humayun-rashid-khan-125018235/"
       height="30"
       width="40"
-  /></a>
+  /></a><br>
   <a href="https://fb.com/tufayal.khan7" target="blank"
     ><img
       align="center"
@@ -32,7 +32,7 @@ Email:humayunrashidkhan96@gmail.com
       alt="tufayal.khan7"
       height="30"
       width="40"
-  /></a>
+  /></a><br>
   <a href="https://instagram.com/tufayal.khan7" target="blank"
     ><img
       align="center"
@@ -40,7 +40,7 @@ Email:humayunrashidkhan96@gmail.com
       alt="tufayal.khan7"
       height="30"
       width="40"
-  /></a>
+  /></a><br>
   <a href="https://medium.com/@humayunrashidkhan96" target="blank"
     ><img
       align="center"
@@ -61,7 +61,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -69,7 +69,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -81,7 +81,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -89,9 +89,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
-
-
+  </a><br>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -99,8 +97,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
- 
+  </a><br>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -108,7 +105,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -116,7 +113,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -124,7 +121,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -132,7 +129,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -140,7 +137,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -149,7 +146,6 @@ Email:humayunrashidkhan96@gmail.com
       height="40"
     />
   </a>
- 
 </p>
 <h4>Other Language</h4>
 <p>
@@ -160,7 +156,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -168,7 +164,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -176,7 +172,7 @@ Email:humayunrashidkhan96@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a><br>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
